@@ -3,9 +3,9 @@
 #include <BlynkSimpleEsp8266.h>
 #define LED 16
 
-char ssid[] = "GLens";
-char pass[] = "yamaharx100";
-char auth[] = "-zpHDuP7F-YOgLOHJNE_n32J6L15TUhd";
+char ssid[] = "PUT UR SSID";
+char pass[] = "WIFI PASSWORD";
+char auth[] = "AUTH TOKEN FROM BLYNK";
 int temp ;
 int sec = 100;
 
